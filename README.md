@@ -1,5 +1,6 @@
 # Stanford-DAA
 Course 1 : Divide and Conquer algorithm paradigm
+
     Week 1 Code:
     1. Karatsuba multiplication 
     2. Mergesort algorithm
