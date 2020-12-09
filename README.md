@@ -10,3 +10,6 @@ Course 1 : Divide and Conquer algorithm paradigm
     
     Week 2 Code:
     1. Counting Inversions: Collaborative filtering 
+    
+    Week 3 Code:
+    1. Quicksort
